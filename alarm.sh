@@ -12,7 +12,7 @@ then
 fi
 
 say --rate=180 "Good $TIME_OF_DAY."
-sleep 1
+sleep 0.7
 say --rate=180 "Today is $DATE. It is $TIME $MERIDIAN."
 
 DUB_LAT=53.3498
